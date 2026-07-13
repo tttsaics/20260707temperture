@@ -1,0 +1,6 @@
+*.exe
+*.bin
+*.mp4
+*.jsonl
+.vscode/
+output/
